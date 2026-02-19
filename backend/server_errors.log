@@ -1,0 +1,169 @@
+[2026-02-18T05:54:09.285Z] View Error: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+Stack: ValidationError: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+    at Document.invalidate (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:3405:32)
+    at init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:821:18)
+    at Document.$__init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:717:3)
+    at model.syncWrapper [as $__init] (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\kareem\index.js:291:25)
+    at Document.init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:658:8)
+    at Document.$init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:674:42)
+    at Object.createModelAndInit (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\queryHelpers.js:127:12)
+    at completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:3329:11)
+    at Query._completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2653:7)
+    at C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2733:10
+
+[2026-02-18T05:55:53.843Z] View Error: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+Stack: ValidationError: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+    at Document.invalidate (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:3405:32)
+    at init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:821:18)
+    at Document.$__init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:717:3)
+    at model.syncWrapper [as $__init] (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\kareem\index.js:291:25)
+    at Document.init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:658:8)
+    at Document.$init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:674:42)
+    at Object.createModelAndInit (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\queryHelpers.js:127:12)
+    at completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:3329:11)
+    at Query._completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2653:7)
+    at C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2733:10
+
+[2026-02-18T05:58:10.858Z] View Error: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+Stack: ValidationError: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+    at Document.invalidate (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:3405:32)
+    at init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:821:18)
+    at Document.$__init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:717:3)
+    at model.syncWrapper [as $__init] (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\kareem\index.js:291:25)
+    at Document.init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:658:8)
+    at Document.$init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:674:42)
+    at Object.createModelAndInit (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\queryHelpers.js:127:12)
+    at completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:3329:11)
+    at Query._completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2653:7)
+    at C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2733:10
+
+[2026-02-18T05:58:10.876Z] View Error: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+Stack: ValidationError: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+    at Document.invalidate (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:3405:32)
+    at init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:821:18)
+    at Document.$__init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:717:3)
+    at model.syncWrapper [as $__init] (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\kareem\index.js:291:25)
+    at Document.init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:658:8)
+    at Document.$init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:674:42)
+    at Object.createModelAndInit (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\queryHelpers.js:127:12)
+    at completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:3329:11)
+    at Query._completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2653:7)
+    at C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2733:10
+
+[2026-02-18T05:59:26.072Z] View Error: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+Stack: ValidationError: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+    at Document.invalidate (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:3405:32)
+    at init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:821:18)
+    at Document.$__init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:717:3)
+    at model.syncWrapper [as $__init] (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\kareem\index.js:291:25)
+    at Document.init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:658:8)
+    at Document.$init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:674:42)
+    at Object.createModelAndInit (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\queryHelpers.js:127:12)
+    at completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:3329:11)
+    at Query._completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2653:7)
+    at C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2733:10
+
+[2026-02-18T05:59:26.089Z] View Error: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+Stack: ValidationError: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+    at Document.invalidate (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:3405:32)
+    at init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:821:18)
+    at Document.$__init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:717:3)
+    at model.syncWrapper [as $__init] (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\kareem\index.js:291:25)
+    at Document.init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:658:8)
+    at Document.$init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:674:42)
+    at Object.createModelAndInit (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\queryHelpers.js:127:12)
+    at completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:3329:11)
+    at Query._completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2653:7)
+    at C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2733:10
+
+[2026-02-18T06:02:16.486Z] View Error: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+Stack: ValidationError: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+    at Document.invalidate (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:3405:32)
+    at init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:821:18)
+    at Document.$__init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:717:3)
+    at model.syncWrapper [as $__init] (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\kareem\index.js:291:25)
+    at Document.init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:658:8)
+    at Document.$init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:674:42)
+    at Object.createModelAndInit (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\queryHelpers.js:127:12)
+    at completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:3329:11)
+    at Query._completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2653:7)
+    at C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2733:10
+
+[2026-02-18T06:07:31.192Z] GET /:id Error: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+Stack: ValidationError: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+    at Document.invalidate (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:3405:32)
+    at init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:821:18)
+    at Document.$__init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:717:3)
+    at model.syncWrapper [as $__init] (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\kareem\index.js:291:25)
+    at Document.init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:658:8)
+    at Document.$init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:674:42)
+    at Object.createModelAndInit (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\queryHelpers.js:127:12)
+    at completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:3329:11)
+    at Query._completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2669:3)
+    at C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2733:10
+
+[2026-02-18T06:13:36.855Z] GET /:id Error: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+Stack: ValidationError: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+    at Document.invalidate (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:3405:32)
+    at init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:821:18)
+    at Document.$__init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:717:3)
+    at model.syncWrapper [as $__init] (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\kareem\index.js:291:25)
+    at Document.init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:658:8)
+    at Document.$init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:674:42)
+    at Object.createModelAndInit (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\queryHelpers.js:127:12)
+    at completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:3329:11)
+    at Query._completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2669:3)
+    at C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2733:10
+
+[2026-02-18T06:23:49.701Z] GET /:id Error: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+Stack: ValidationError: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+    at Document.invalidate (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:3405:32)
+    at init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:821:18)
+    at Document.$__init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:717:3)
+    at model.syncWrapper [as $__init] (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\kareem\index.js:291:25)
+    at Document.init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:658:8)
+    at Document.$init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:674:42)
+    at Object.createModelAndInit (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\queryHelpers.js:127:12)
+    at completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:3329:11)
+    at Query._completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2669:3)
+    at C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2733:10
+
+[2026-02-18T06:23:50.209Z] GET /:id Error: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+Stack: ValidationError: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+    at Document.invalidate (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:3405:32)
+    at init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:821:18)
+    at Document.$__init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:717:3)
+    at model.syncWrapper [as $__init] (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\kareem\index.js:291:25)
+    at Document.init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:658:8)
+    at Document.$init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:674:42)
+    at Object.createModelAndInit (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\queryHelpers.js:127:12)
+    at completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:3329:11)
+    at Query._completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2669:3)
+    at C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2733:10
+
+[2026-02-18T06:23:53.788Z] GET /:id Error: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+Stack: ValidationError: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+    at Document.invalidate (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:3405:32)
+    at init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:821:18)
+    at Document.$__init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:717:3)
+    at model.syncWrapper [as $__init] (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\kareem\index.js:291:25)
+    at Document.init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:658:8)
+    at Document.$init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:674:42)
+    at Object.createModelAndInit (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\queryHelpers.js:127:12)
+    at completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:3329:11)
+    at Query._completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2669:3)
+    at C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2733:10
+
+[2026-02-18T06:23:54.105Z] GET /:id Error: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+Stack: ValidationError: Video validation failed: likes.0: Cast to [ObjectId] failed for value "[ 0 ]" (type string) at path "likes.0" because of "CastError"
+    at Document.invalidate (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:3405:32)
+    at init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:821:18)
+    at Document.$__init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:717:3)
+    at model.syncWrapper [as $__init] (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\kareem\index.js:291:25)
+    at Document.init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:658:8)
+    at Document.$init (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\document.js:674:42)
+    at Object.createModelAndInit (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\queryHelpers.js:127:12)
+    at completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:3329:11)
+    at Query._completeOne (C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2669:3)
+    at C:\Users\USER\Desktop\fs\youtube\youtube-lite\backend\node_modules\mongoose\lib\query.js:2733:10
+
