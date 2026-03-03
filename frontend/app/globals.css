@@ -1,0 +1,108 @@
+@import "tailwindcss";
+
+:root {
+  --background: #09090b;
+  --foreground: #f8fafc;
+  --primary: #8b5cf6;
+  --secondary: #06b6d4;
+  --card: #18181b;
+  --card-hover: #27272a;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  /* VoidRifts Palette */
+  --background: #0A0A0F;
+  /* Deep Void Black */
+  --foreground: #F9FAFB;
+  /* Crisp White */
+
+  --primary: #8B5CF6;
+  /* Rift Purple (Electric) */
+  --secondary: #06B6D4;
+  /* Void Cyan (Bright) */
+  --accent: #EC4899;
+  /* Neon Pink */
+
+  --card-bg: #1A1A24;
+  /* Dark Purple-Gray */
+  --glow: #A78BFA;
+  /* Soft Purple Glow */
+
+  --text-primary: #F9FAFB;
+  --text-secondary: #94A3B8;
+
+  --font-geist-sans: "Inter", sans-serif;
+  --font-geist-mono: "Rajdhani", monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0A0A0F;
+    --foreground: #F9FAFB;
+  }
+}
+
+body {
+  color: var(--text-primary);
+  background: var(--background);
+  font-family: var(--font-geist-sans);
+  overflow-x: hidden;
+}
+
+/* Scrollbar Styling for Void Aesthetic */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2d2d3a;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary);
+}
+
+/* Utility Classes */
+.glass-card {
+  background: rgba(26, 26, 36, 0.6);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(139, 92, 246, 0.1);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+
+.text-glow {
+  text-shadow: 0 0 20px rgba(139, 92, 246, 0.5);
+}
+
+.box-glow {
+  box-shadow: 0 0 20px rgba(139, 92, 246, 0.3);
+}
+
+.rift-border {
+  border: 1px solid transparent;
+  background-image: linear-gradient(var(--card-bg), var(--card-bg)), linear-gradient(to right, var(--primary), var(--secondary));
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+}
+
+/* Animations */
+@keyframes shine {
+  from {
+    transform: translateX(-100%);
+  }
+
+  to {
+    transform: translateX(200%);
+  }
+}
+
+.animate-shine {
+  animation: shine 1.5s ease-in-out infinite;
+}

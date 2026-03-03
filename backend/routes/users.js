@@ -118,4 +118,31 @@ router.put('/saved/:videoId', protect, async (req, res) => {
     }
 });
 
+// @route   GET /api/users/:id
+// @desc    Get user profile and their videos
+// @access  Public
+router.get('/:id', async (req, res) => {
+    try {
+        const user = await User.findById(req.params.id).select('-password');
+        if (!user) {
+            return res.status(404).json({ success: false, error: 'User not found' });
+        }
+
+        const videos = await Video.find({ uploader: req.params.id })
+            .populate('uploader', 'username avatar')
+            .sort({ createdAt: -1 });
+
+        res.status(200).json({
+            success: true,
+            data: {
+                user,
+                videos
+            }
+        });
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ success: false, error: 'Server Error' });
+    }
+});
+
 module.exports = router;
